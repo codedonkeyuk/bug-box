@@ -1,6 +1,6 @@
 # Bug Box
 
-First app in my cursed series. A site dedicated to bugs. This app currently only hosts an intro page. Took me three days to build that as I had to build all the SVG assets by hand. Currently working on SASS nightmare on a separate dev branch.
+This site was an epic disaster which is why it can only be found in cursed section of my website. I wanted it to be scary but its really sad. Anyway its done now!
 
 Vite has been configured to generate icons off a single svg file. This svg file is also used for social media image. You need to edit [./public/logo-square.svg](./public/logo-square.svg) to change all the images used in the app for social sharing and icons.
 
